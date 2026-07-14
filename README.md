@@ -7,6 +7,7 @@ This repository holds test plans, bug reports, and API testing examples from my 
 ## Contents
 - [Test Plans](./test-plans) — feature-level test plans and test case design
 - [Bug Reports](./bug-reports) — defect documentation with repro steps, severity, and root cause notes
+- [API Testing](./api-testing) — Postman-based API test cases and collections for banking/fintech endpoints
 
 ## About Me
 Manual QA Tester with hands-on experience across fintech payments, digital banking, and e-learning products. Experienced in API testing (Postman, Swagger), defect lifecycle management, and release readiness reviews. Pursuing ISTQB Foundation Level (CTFL v4.0) certification.
