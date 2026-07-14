@@ -1,6 +1,6 @@
 # QA Portfolio
 
-Hi, I'm Yinka — a Manual QA Tester with 4+ years of experience in fintech, payments, and API-driven products.
+Hi, I'm Yinka - a Manual QA Tester with 4+ years of experience in fintech, payments, and API-driven products.
 
 This repository holds test plans, bug reports, and API testing examples from my QA work and practice projects.
 
